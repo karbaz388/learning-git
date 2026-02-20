@@ -2,5 +2,6 @@
     box-sizing: border-box;
 }
 body {
-    margin: 20px;
+    margin: 0;
+    font-family: cursive;
 }
